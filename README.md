@@ -30,6 +30,6 @@ Backend:
 
 [ image ]
 
-[Go to WisperRates repo]([url](https://github.com/Bedmass64/WisperRate))
+[Go to WisperRates repo](https://github.com/Bedmass64/WisperRate)
 
 
